@@ -1,0 +1,26 @@
+{
+  "name": "dummy",
+  "description": "dummy file for js projects",
+  "main": "index.js",
+  "authors": [
+    "Amber Farrington"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "js",
+    "dummy"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.15.1"
+  }
+}
